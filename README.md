@@ -8,3 +8,5 @@ Projects:
 [state of coffee production and consumption in the world, part2](coffee_project_part2.ipynb) - pandas, matplotlib, numpy
 
 [finding the Ford F150 XLT with the optimum price, condition, odometer and amount](car_auction_US.ipynb) - pandas, matplotlib, numpy, seaborn
+
+[streamlit dashboard app - basic](app.md) - pandas, streamlit, plotly.express
