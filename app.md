@@ -1,3 +1,4 @@
+tab-1
 <img width="1917" height="872" alt="tab1" src="https://github.com/user-attachments/assets/e1560210-dbcd-4041-b582-67e9b3ae1a0d" />
 
 ``` python
@@ -124,4 +125,5 @@ with tab2:
 			st.dataframe(df_difference, hide_index=True, height=240)
 		line2_selected = st.plotly_chart(line2, theme="streamlit")
 ```
+tab-2
 <img width="1917" height="870" alt="tab2" src="https://github.com/user-attachments/assets/a47782ac-36c7-457c-a8a9-62769705ff44" />
