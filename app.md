@@ -1,4 +1,4 @@
-![tab1]([url=https://ibb.co/mV4ZXtWh][img]https://i.ibb.co/q3pqW9Qm/tab1.png[/img][/url])
+![tab1](https://i.ibb.co/mV4ZXtWh/tab1.png)
 
 ``` python
 ## imports
