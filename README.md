@@ -10,3 +10,4 @@ Projects:
 [finding the Ford F150 XLT with the optimum price, condition, odometer and amount](car_auction_US.ipynb) - pandas, matplotlib, numpy, seaborn
 
 [streamlit dashboard app - basic](app.md) - pandas, streamlit, plotly.express
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://initial-dashboard-app.streamlit.app/)
