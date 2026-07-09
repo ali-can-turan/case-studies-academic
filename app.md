@@ -1,5 +1,9 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://initial-dashboard-app.streamlit.app/)
+
 tab-1
 <img width="1917" height="872" alt="tab1" src="https://github.com/user-attachments/assets/e1560210-dbcd-4041-b582-67e9b3ae1a0d" />
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://initial-dashboard-app.streamlit.app/)
 
 ``` python
 ## imports
