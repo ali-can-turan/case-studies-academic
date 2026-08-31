@@ -12,3 +12,5 @@ Projects:
 
 [streamlit dashboard app - basic](app.md) - pandas, streamlit, plotly.express
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://first-dashboard-app.streamlit.app/)
+
+[basic demand regression analysis both via Excel and Python libraries](Demand%20Analysis) - pandas, matplotlib, numpy, seaborn, scikit-learn, statsmodels
