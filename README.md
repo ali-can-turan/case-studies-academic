@@ -14,3 +14,5 @@
 [streamlit dashboard app - basic](app.md) - pandas, streamlit, plotly.express
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://first-dashboard-app.streamlit.app/)
+
+[Mixed Integer Linear Programming  - demand, supply, conservation of flow and binary constraints](milp.ipynb) - pandas, numpy, scipy.optimize
